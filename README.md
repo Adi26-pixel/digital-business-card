@@ -1,5 +1,3 @@
-# digital-business-card
-
 Digital Business Card
 
 This is a solo project from React Basics section on the coding course The Frontend Developer Career Path on the Scrimba platform
