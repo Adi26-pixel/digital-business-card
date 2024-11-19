@@ -3,8 +3,7 @@ function Interests() {
     <div>
       <h2 className="main-title">Interests</h2>
       <p className="main-paragraph">
-        Street skateboarding enthusiast. Thrift store go-er. Music creator. Film
-        fanatic. SSBM pro. Ameature rock climber.
+        Traveling, Reading, Retail Shopping and learning new Skills.
       </p>
     </div>
   );
